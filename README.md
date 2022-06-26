@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JorimJang
-- 👀 I’m interested in Pure Mathematics, Theoretical Physics & Computer Science.
+- 👋 Hi, I’m @jorimjang
+- 👀 I’m strongly interested in pure mathematics, theoretical physics & some computer science.
 - 🌱 I’m currently learning Python, Java & C++.
 
 <!---
