@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Klem
-- 👀 I’m strongly interested in pure mathematics, theoretical physics & some computer science.
+- 👀 I’m mostly interested in pure mathematics, theoretical physics & some computer science.
 - 🌱 I’m currently learning Python, Java & C++.
 
 <!---
